@@ -73,6 +73,7 @@ ol {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .section-name-btn:focus,
@@ -89,7 +90,6 @@ ol {
 }
 
 .features-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -125,7 +125,6 @@ ol {
 }
 
 .team-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -155,7 +154,6 @@ ol {
   color: #2e2f42;
 }
 .portfolio-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -163,7 +161,6 @@ ol {
 }
 
 .logo-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
