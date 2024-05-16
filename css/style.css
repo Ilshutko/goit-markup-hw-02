@@ -53,3 +53,29 @@ ol {
 .address-link:focus {
   color: #404bbf;
 }
+
+.section {
+  background-color: #2e2f42;
+}
+
+.section-name {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.section-name-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+}
+
+.section-name-btn:focus,
+.section-name-btn:hover {
+  background-color: #404bbf;
+}
